@@ -1,0 +1,33 @@
+.testimonals{
+    background: url("./background1.jpg") no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-position: bottom;
+    display: flex;
+}
+.quote__icon{
+    flex:0.2;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 50px;
+    font-size: 60px;
+}
+.quotes{
+flex:0.75;
+color:white;
+padding-left: 50px;
+padding-top: 70px;
+
+}
+.first__quote{
+    padding-bottom: 20px;
+}
+.first__quote >p{
+    font-size: 30px;
+font-family: cursive;
+
+}
+.first__quote > h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
